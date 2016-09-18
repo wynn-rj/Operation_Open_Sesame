@@ -1,0 +1,10 @@
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Release\Open Sesame Logger.exe
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Release\Open Sesame Logger.pdb
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Release\Open Sesame Logger.xml
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open_Sesame_Logger.Form1.resources
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open_Sesame_Logger.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open Sesame Logger.vbproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open Sesame Logger.exe
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open Sesame Logger.xml
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Release\Open Sesame Logger.pdb

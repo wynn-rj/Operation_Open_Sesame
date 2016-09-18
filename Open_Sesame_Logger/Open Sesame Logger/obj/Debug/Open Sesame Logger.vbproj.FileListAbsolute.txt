@@ -1,0 +1,20 @@
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Debug\Open Sesame Logger.exe
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Debug\Open Sesame Logger.pdb
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\bin\Debug\Open Sesame Logger.xml
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open_Sesame_Logger.Form1.resources
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open_Sesame_Logger.Resources.resources
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open Sesame Logger.vbproj.GenerateResource.Cache
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open Sesame Logger.exe
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open Sesame Logger.xml
+C:\Users\Robert\Documents\Visual Studio 2008\Projects\Open Sesame Logger\Open Sesame Logger\obj\Debug\Open Sesame Logger.pdb
+C:\rj\Open Sesame Logger\obj\Debug\Open Sesame Logger.exe
+C:\rj\Open Sesame Logger\obj\Debug\Open Sesame Logger.xml
+C:\rj\Open Sesame Logger\obj\Debug\Open Sesame Logger.pdb
+C:\rj\Open Sesame Logger\bin\Debug\Open Sesame Logger.exe
+C:\rj\Open Sesame Logger\bin\Debug\Open Sesame Logger.pdb
+C:\rj\Open Sesame Logger\bin\Debug\Open Sesame Logger.xml
+C:\rj\Open Sesame Logger\obj\Debug\ResolveAssemblyReference.cache
+C:\rj\Open Sesame Logger\obj\Debug\Open_Sesame_Logger.Form1.resources
+C:\rj\Open Sesame Logger\obj\Debug\Open_Sesame_Logger.Resources.resources
+C:\rj\Open Sesame Logger\obj\Debug\Open Sesame Logger.vbproj.GenerateResource.Cache

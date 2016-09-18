@@ -1,0 +1,18 @@
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\bin\Debug\OpenSesameClient.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\bin\Debug\OpenSesameClient.pdb
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\bin\Debug\OpenSesameClient.xml
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\OpenSesameClient.Resources.resources
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\OpenSesameClient.vbproj.GenerateResource.Cache
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\OpenSesameClient.exe
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\OpenSesameClient.xml
+C:\Users\Robert\AppData\Local\Temporary Projects\OpenSesameClient\obj\Debug\OpenSesameClient.pdb
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\OpenSesameClient.exe
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\OpenSesameClient.xml
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\OpenSesameClient.pdb
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\bin\Debug\OpenSesameClient.exe
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\bin\Debug\OpenSesameClient.pdb
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\bin\Debug\OpenSesameClient.xml
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\OpenSesameClient.Resources.resources
+C:\Users\Robert\Desktop\OpenSesameClient\OpenSesameClient\obj\Debug\OpenSesameClient.vbproj.GenerateResource.Cache

@@ -1,0 +1,1648 @@
+Sent: sHello
+Sent: sHello
+tick
+tick
+tick
+tick
+tick
+tick
+tick
+tick
+tick
+tick
+tick
+Sent: sHello
+1
+2
+3
+Sent: sHello
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: sHello
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: sHello
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+Sent: sHello
+1
+2
+3
+4
+Sent: sHello
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Sent: smrgoldiTEST
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: yOAo+jH0xQGWRWZF4kcqAA==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 25
+Mask 2: 166
+Mask 3: 130
+Mask 4: 120
+Encoded Message Data Byte 1: 83
+Encoded Message Data Byte 2: 201
+Encoded Message Data Byte 3: 234
+Encoded Message Data Byte 4: 22
+Encoded Message Data Byte 5: 57
+Encoded Message Data Byte 6: 245
+Encoded Message Data Byte 7: 239
+Encoded Message Data Byte 8: 17
+Encoded Message Data Byte 9: 109
+Encoded Message Data Byte 10: 206
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.101:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: http://192.168.1.100
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Linux; Android 4.4.4; XT1254 Build/KDF21.196-8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.93 Mobile Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: GJDNDx5gztX+DdSkITXHHw==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 220
+Mask 2: 209
+Mask 3: 198
+Mask 4: 157
+Encoded Message Data Byte 1: 150
+Encoded Message Data Byte 2: 190
+Encoded Message Data Byte 3: 174
+Encoded Message Data Byte 4: 243
+Encoded Message Data Byte 5: 252
+Encoded Message Data Byte 6: 130
+Encoded Message Data Byte 7: 171
+Encoded Message Data Byte 8: 244
+Encoded Message Data Byte 9: 168
+Encoded Message Data Byte 10: 185
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sent: smrgoldiTEST
+1
+2
+3
+4
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: 70vp/tmFmomApUpqDP89cA==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 241
+Mask 2: 51
+Mask 3: 162
+Mask 4: 178
+Encoded Message Data Byte 1: 187
+Encoded Message Data Byte 2: 92
+Encoded Message Data Byte 3: 202
+Encoded Message Data Byte 4: 220
+Encoded Message Data Byte 5: 209
+Encoded Message Data Byte 6: 96
+Encoded Message Data Byte 7: 207
+Encoded Message Data Byte 8: 219
+Encoded Message Data Byte 9: 133
+Encoded Message Data Byte 10: 91
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: w9Vs0ULUKCT2UwSaKVEzXw==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 192
+Mask 2: 38
+Mask 3: 68
+Mask 4: 202
+Encoded Message Data Byte 1: 138
+Encoded Message Data Byte 2: 73
+Encoded Message Data Byte 3: 44
+Encoded Message Data Byte 4: 164
+Encoded Message Data Byte 5: 224
+Encoded Message Data Byte 6: 117
+Encoded Message Data Byte 7: 41
+Encoded Message Data Byte 8: 163
+Encoded Message Data Byte 9: 180
+Encoded Message Data Byte 10: 78
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: 8K1cDyIExg2h3Bb36mP6Bg==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 70
+Mask 2: 49
+Mask 3: 102
+Mask 4: 246
+Encoded Message Data Byte 1: 12
+Encoded Message Data Byte 2: 94
+Encoded Message Data Byte 3: 14
+Encoded Message Data Byte 4: 152
+Encoded Message Data Byte 5: 102
+Encoded Message Data Byte 6: 98
+Encoded Message Data Byte 7: 11
+Encoded Message Data Byte 8: 159
+Encoded Message Data Byte 9: 50
+Encoded Message Data Byte 10: 89
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: yfZx8SyGeIbTZGCr5ToW4A==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 102
+Mask 2: 59
+Mask 3: 83
+Mask 4: 189
+Encoded Message Data Byte 1: 44
+Encoded Message Data Byte 2: 84
+Encoded Message Data Byte 3: 59
+Encoded Message Data Byte 4: 211
+Encoded Message Data Byte 5: 70
+Encoded Message Data Byte 6: 104
+Encoded Message Data Byte 7: 62
+Encoded Message Data Byte 8: 212
+Encoded Message Data Byte 9: 18
+Encoded Message Data Byte 10: 83
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: 2KIDGS05z/n5uhWJ4nEn6g==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 76
+Mask 2: 181
+Mask 3: 6
+Mask 4: 70
+Encoded Message Data Byte 1: 6
+Encoded Message Data Byte 2: 218
+Encoded Message Data Byte 3: 110
+Encoded Message Data Byte 4: 40
+Encoded Message Data Byte 5: 108
+Encoded Message Data Byte 6: 230
+Encoded Message Data Byte 7: 107
+Encoded Message Data Byte 8: 47
+Encoded Message Data Byte 9: 56
+Encoded Message Data Byte 10: 221
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: aEeHNu9esRMn2RS10oSrDg==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 94
+Mask 2: 1
+Mask 3: 191
+Mask 4: 218
+Encoded Message Data Byte 1: 20
+Encoded Message Data Byte 2: 110
+Encoded Message Data Byte 3: 215
+Encoded Message Data Byte 4: 180
+Encoded Message Data Byte 5: 126
+Encoded Message Data Byte 6: 82
+Encoded Message Data Byte 7: 210
+Encoded Message Data Byte 8: 179
+Encoded Message Data Byte 9: 42
+Encoded Message Data Byte 10: 105
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: ZF1hgkccHViRlbQyzTK8qw==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 59
+Mask 2: 169
+Mask 3: 254
+Mask 4: 200
+Encoded Message Data Byte 1: 113
+Encoded Message Data Byte 2: 198
+Encoded Message Data Byte 3: 150
+Encoded Message Data Byte 4: 166
+Encoded Message Data Byte 5: 27
+Encoded Message Data Byte 6: 250
+Encoded Message Data Byte 7: 147
+Encoded Message Data Byte 8: 161
+Encoded Message Data Byte 9: 79
+Encoded Message Data Byte 10: 193
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: OpFOfveIIytOGODquXb6vw==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 13 bytes
+Message length: 7 bytes
+OP-Code: 129
+Message Length encoded: 135
+Mask 1: 230
+Mask 2: 60
+Mask 3: 13
+Mask 4: 44
+Encoded Message Data Byte 1: 149
+Encoded Message Data Byte 2: 83
+Encoded Message Data Byte 3: 96
+Encoded Message Data Byte 4: 73
+Encoded Message Data Byte 5: 137
+Encoded Message Data Byte 6: 82
+Encoded Message Data Byte 7: 104
+Decoded Message Data Byte 1 :115
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :109
+Decoded Message Data Byte 4 :101
+Decoded Message Data Byte 5 :111
+Decoded Message Data Byte 6 :110
+Decoded Message Data Byte 7 :101
+===someone===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Upgrade: websocket
+Data: Connection: Upgrade
+Data: Host: 192.168.1.101:43211
+Data: Origin: http://192.168.1.100
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Sec-WebSocket-Key: f7udv50KDHiNXm72giYtaA==
+Data: Sec-WebSocket-Version: 13
+Data: Sec-WebSocket-Extensions: x-webkit-deflate-frame
+Data: User-Agent: Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1.4
+------Recieving Data------
+Amount of data recieved: 13 bytes
+Message length: 7 bytes
+OP-Code: 129
+Message Length encoded: 135
+Mask 1: 102
+Mask 2: 132
+Mask 3: 71
+Mask 4: 155
+Encoded Message Data Byte 1: 53
+Encoded Message Data Byte 2: 235
+Encoded Message Data Byte 3: 42
+Encoded Message Data Byte 4: 254
+Encoded Message Data Byte 5: 9
+Encoded Message Data Byte 6: 234
+Encoded Message Data Byte 7: 34
+Decoded Message Data Byte 1 :83
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :109
+Decoded Message Data Byte 4 :101
+Decoded Message Data Byte 5 :111
+Decoded Message Data Byte 6 :110
+Decoded Message Data Byte 7 :101
+===Someone===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: smrgoldiTEST
+1
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: K3Zj96pYPjoAftq3FCbuJA==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 77
+Mask 2: 255
+Mask 3: 92
+Mask 4: 59
+Encoded Message Data Byte 1: 7
+Encoded Message Data Byte 2: 144
+Encoded Message Data Byte 3: 52
+Encoded Message Data Byte 4: 85
+Encoded Message Data Byte 5: 109
+Encoded Message Data Byte 6: 172
+Encoded Message Data Byte 7: 49
+Encoded Message Data Byte 8: 82
+Encoded Message Data Byte 9: 57
+Encoded Message Data Byte 10: 151
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: 7FL3AaOPVn2pctQL8Votvw==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 152
+Mask 2: 235
+Mask 3: 200
+Mask 4: 209
+Encoded Message Data Byte 1: 210
+Encoded Message Data Byte 2: 132
+Encoded Message Data Byte 3: 160
+Encoded Message Data Byte 4: 191
+Encoded Message Data Byte 5: 184
+Encoded Message Data Byte 6: 184
+Encoded Message Data Byte 7: 165
+Encoded Message Data Byte 8: 184
+Encoded Message Data Byte 9: 236
+Encoded Message Data Byte 10: 131
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: BR8H1Sg+v5+CP4sCgbPH7g==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 144
+Mask 2: 224
+Mask 3: 181
+Mask 4: 217
+Encoded Message Data Byte 1: 218
+Encoded Message Data Byte 2: 143
+Encoded Message Data Byte 3: 221
+Encoded Message Data Byte 4: 183
+Encoded Message Data Byte 5: 176
+Encoded Message Data Byte 6: 179
+Encoded Message Data Byte 7: 216
+Encoded Message Data Byte 8: 176
+Encoded Message Data Byte 9: 228
+Encoded Message Data Byte 10: 136
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: Nc86u2Ds0Z+hMPSJvRzhhQ==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 207
+Mask 2: 122
+Mask 3: 82
+Mask 4: 253
+Encoded Message Data Byte 1: 133
+Encoded Message Data Byte 2: 21
+Encoded Message Data Byte 3: 58
+Encoded Message Data Byte 4: 147
+Encoded Message Data Byte 5: 239
+Encoded Message Data Byte 6: 41
+Encoded Message Data Byte 7: 63
+Encoded Message Data Byte 8: 148
+Encoded Message Data Byte 9: 187
+Encoded Message Data Byte 10: 18
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: iV5UREeI0wUqnJyypYiNQw==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 116
+Mask 2: 139
+Mask 3: 40
+Mask 4: 80
+Encoded Message Data Byte 1: 62
+Encoded Message Data Byte 2: 228
+Encoded Message Data Byte 3: 64
+Encoded Message Data Byte 4: 62
+Encoded Message Data Byte 5: 84
+Encoded Message Data Byte 6: 216
+Encoded Message Data Byte 7: 69
+Encoded Message Data Byte 8: 57
+Encoded Message Data Byte 9: 0
+Encoded Message Data Byte 10: 227
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: MItMjwKSTHdanApQxXEpgQ==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 14
+Mask 2: 109
+Mask 3: 69
+Mask 4: 221
+Encoded Message Data Byte 1: 68
+Encoded Message Data Byte 2: 2
+Encoded Message Data Byte 3: 45
+Encoded Message Data Byte 4: 179
+Encoded Message Data Byte 5: 46
+Encoded Message Data Byte 6: 62
+Encoded Message Data Byte 7: 40
+Encoded Message Data Byte 8: 180
+Encoded Message Data Byte 9: 122
+Encoded Message Data Byte 10: 5
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: jOOabOhUnUxR82kfJeyZYA==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 215
+Mask 2: 53
+Mask 3: 26
+Mask 4: 231
+Encoded Message Data Byte 1: 157
+Encoded Message Data Byte 2: 90
+Encoded Message Data Byte 3: 114
+Encoded Message Data Byte 4: 137
+Encoded Message Data Byte 5: 247
+Encoded Message Data Byte 6: 102
+Encoded Message Data Byte 7: 119
+Encoded Message Data Byte 8: 142
+Encoded Message Data Byte 9: 163
+Encoded Message Data Byte 10: 93
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: ZgP24XTXs+HAsKnwTuvfKA==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 77
+Mask 2: 161
+Mask 3: 161
+Mask 4: 255
+Encoded Message Data Byte 1: 7
+Encoded Message Data Byte 2: 206
+Encoded Message Data Byte 3: 201
+Encoded Message Data Byte 4: 145
+Encoded Message Data Byte 5: 109
+Encoded Message Data Byte 6: 242
+Encoded Message Data Byte 7: 204
+Encoded Message Data Byte 8: 150
+Encoded Message Data Byte 9: 57
+Encoded Message Data Byte 10: 201
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: XCorcY+6RVHVpPKKdOp9AA==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 181
+Mask 2: 248
+Mask 3: 223
+Mask 4: 233
+Encoded Message Data Byte 1: 255
+Encoded Message Data Byte 2: 151
+Encoded Message Data Byte 3: 183
+Encoded Message Data Byte 4: 135
+Encoded Message Data Byte 5: 149
+Encoded Message Data Byte 6: 171
+Encoded Message Data Byte 7: 178
+Encoded Message Data Byte 8: 128
+Encoded Message Data Byte 9: 193
+Encoded Message Data Byte 10: 144
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: knqAWv7WKguiooVNpGC2jQ==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 58
+Mask 2: 10
+Mask 3: 157
+Mask 4: 170
+Encoded Message Data Byte 1: 112
+Encoded Message Data Byte 2: 101
+Encoded Message Data Byte 3: 245
+Encoded Message Data Byte 4: 196
+Encoded Message Data Byte 5: 26
+Encoded Message Data Byte 6: 89
+Encoded Message Data Byte 7: 240
+Encoded Message Data Byte 8: 195
+Encoded Message Data Byte 9: 78
+Encoded Message Data Byte 10: 98
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: lKdvVycpMr2CKcDQCjH6Pg==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 56
+Mask 2: 93
+Mask 3: 35
+Mask 4: 241
+Encoded Message Data Byte 1: 114
+Encoded Message Data Byte 2: 50
+Encoded Message Data Byte 3: 75
+Encoded Message Data Byte 4: 159
+Encoded Message Data Byte 5: 24
+Encoded Message Data Byte 6: 14
+Encoded Message Data Byte 7: 78
+Encoded Message Data Byte 8: 152
+Encoded Message Data Byte 9: 76
+Encoded Message Data Byte 10: 53
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: 2kNCOZztVjSZgmWcUQWL4Q==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 47
+Mask 2: 156
+Mask 3: 210
+Mask 4: 112
+Encoded Message Data Byte 1: 101
+Encoded Message Data Byte 2: 243
+Encoded Message Data Byte 3: 186
+Encoded Message Data Byte 4: 30
+Encoded Message Data Byte 5: 15
+Encoded Message Data Byte 6: 207
+Encoded Message Data Byte 7: 191
+Encoded Message Data Byte 8: 25
+Encoded Message Data Byte 9: 91
+Encoded Message Data Byte 10: 244
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: IsfCFMgx13NaPfx81W6yig==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 63
+Mask 2: 89
+Mask 3: 84
+Mask 4: 52
+Encoded Message Data Byte 1: 117
+Encoded Message Data Byte 2: 54
+Encoded Message Data Byte 3: 60
+Encoded Message Data Byte 4: 90
+Encoded Message Data Byte 5: 31
+Encoded Message Data Byte 6: 10
+Encoded Message Data Byte 7: 57
+Encoded Message Data Byte 8: 93
+Encoded Message Data Byte 9: 75
+Encoded Message Data Byte 10: 49
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: smrgoldiTEST
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: yhLYKLUiGld8Fq49vVcRcA==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 16 bytes
+Message length: 10 bytes
+OP-Code: 129
+Message Length encoded: 138
+Mask 1: 81
+Mask 2: 73
+Mask 3: 47
+Mask 4: 148
+Encoded Message Data Byte 1: 27
+Encoded Message Data Byte 2: 38
+Encoded Message Data Byte 3: 71
+Encoded Message Data Byte 4: 250
+Encoded Message Data Byte 5: 113
+Encoded Message Data Byte 6: 26
+Encoded Message Data Byte 7: 66
+Encoded Message Data Byte 8: 253
+Encoded Message Data Byte 9: 37
+Encoded Message Data Byte 10: 33
+Decoded Message Data Byte 1 :74
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :104
+Decoded Message Data Byte 4 :110
+Decoded Message Data Byte 5 :32
+Decoded Message Data Byte 6 :83
+Decoded Message Data Byte 7 :109
+Decoded Message Data Byte 8 :105
+Decoded Message Data Byte 9 :116
+Decoded Message Data Byte 10 :104
+===John Smith===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: omrgoldiTEST
+Sent: omrgoldiTEST
+Sent: smrgoldiTEST
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: omrgoldiTEST
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.114:43211
+Data: Connection: Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+Data: Origin: null
+Data: Sec-WebSocket-Version: 13
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36
+Data: Accept-Encoding: gzip, deflate, sdch
+Data: Accept-Language: en-US,en;q=0.8
+Data: Sec-WebSocket-Key: 3SPijpntIs6JyjzsDXEHFw==
+Data: Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+------Recieving Data------
+Amount of data recieved: 13 bytes
+Message length: 7 bytes
+OP-Code: 129
+Message Length encoded: 135
+Mask 1: 3
+Mask 2: 225
+Mask 3: 154
+Mask 4: 237
+Encoded Message Data Byte 1: 80
+Encoded Message Data Byte 2: 142
+Encoded Message Data Byte 3: 247
+Encoded Message Data Byte 4: 136
+Encoded Message Data Byte 5: 108
+Encoded Message Data Byte 6: 143
+Encoded Message Data Byte 7: 255
+Decoded Message Data Byte 1 :83
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :109
+Decoded Message Data Byte 4 :101
+Decoded Message Data Byte 5 :111
+Decoded Message Data Byte 6 :110
+Decoded Message Data Byte 7 :101
+===Someone===
+Sending: 'Someone has been notified' to Server
+Message sent
+!Disconnect Called!
+------Socket Disconnected------
+Sent: smrgoldiTEST
+Recieved: Data Recieved mrgoldiTEST
+Listen to port RECEIVING_PORT ...
+Sent: sJohnSmith
+1
+2
+3
+4
+5
+Sent: sJohnSmith
+Recieved: Data Recieved JohnSmith
+Listen to port RECEIVING_PORT ...
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.200:43211
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Data: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Data: Accept-Language: en-US,en;q=0.5
+Data: Accept-Encoding: gzip, deflate
+Data: Sec-WebSocket-Version: 13
+Data: Origin: http://192.168.1.115
+Data: Sec-WebSocket-Key: LnRHANq8XH6tIUZkKrfXkg==
+Data: Connection: keep-alive, Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+------Recieving Data------
+Amount of data recieved: 13 bytes
+Message length: 7 bytes
+OP-Code: 129
+Message Length encoded: 135
+Mask 1: 184
+Mask 2: 252
+Mask 3: 74
+Mask 4: 56
+Encoded Message Data Byte 1: 235
+Encoded Message Data Byte 2: 147
+Encoded Message Data Byte 3: 39
+Encoded Message Data Byte 4: 93
+Encoded Message Data Byte 5: 215
+Encoded Message Data Byte 6: 146
+Encoded Message Data Byte 7: 47
+Decoded Message Data Byte 1 :83
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :109
+Decoded Message Data Byte 4 :101
+Decoded Message Data Byte 5 :111
+Decoded Message Data Byte 6 :110
+Decoded Message Data Byte 7 :101
+===Someone===
+Accept new connection ...
+Accept new connection ...
+Data: GET / HTTP/1.1
+Data: Host: 192.168.1.200:43211
+Data: User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+Data: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Data: Accept-Language: en-US,en;q=0.5
+Data: Accept-Encoding: gzip, deflate
+Data: Sec-WebSocket-Version: 13
+Data: Origin: http://192.168.1.115
+Data: Sec-WebSocket-Key: vQE/6mtSmTaComLUW/TTTw==
+Data: Connection: keep-alive, Upgrade
+Data: Pragma: no-cache
+Data: Cache-Control: no-cache
+Data: Upgrade: websocket
+------Recieving Data------
+Amount of data recieved: 13 bytes
+Message length: 7 bytes
+OP-Code: 129
+Message Length encoded: 135
+Mask 1: 12
+Mask 2: 57
+Mask 3: 158
+Mask 4: 228
+Encoded Message Data Byte 1: 95
+Encoded Message Data Byte 2: 86
+Encoded Message Data Byte 3: 243
+Encoded Message Data Byte 4: 129
+Encoded Message Data Byte 5: 99
+Encoded Message Data Byte 6: 87
+Encoded Message Data Byte 7: 251
+Decoded Message Data Byte 1 :83
+Decoded Message Data Byte 2 :111
+Decoded Message Data Byte 3 :109
+Decoded Message Data Byte 4 :101
+Decoded Message Data Byte 5 :111
+Decoded Message Data Byte 6 :110
+Decoded Message Data Byte 7 :101
+===Someone===
+Sent: sJohnSmith
+Recieved: Data Recieved JohnSmith
+Listen to port RECEIVING_PORT ...
